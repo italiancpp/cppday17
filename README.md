@@ -7,14 +7,14 @@ Talks:
   * slides
   * video
 * C++ e UI: un approccio alternativo by Daniele Pallastrelli
-  * slides
+  * [slides](/C%2B%2B%20and%20UI%20un%20approccio%20alternativo%20-%20Daniele%20Pallastrelli.pdf)
   * video
 * Immediate Mode Graphical User Interfaces in C++ by Stefano Cristiano
-  * slides
+  * [slides](/Immediate%20Mode%20User%20Interface%20in%20C%2B%2B%20-%20Stefano%20Cristiano.pdf)
   * video
 * C/C++ interoperability with other languages by Alberto Bignotti
   * slides
   * video
 * Intelligenza Artificiale oggi by Sebastiano Galazzo
-  * slides
+  * [slides](/Intelligenza%20Artificiale%20Oggi%20-%20Sebastiano%20Galazzo.pptx)
   * video
