@@ -13,7 +13,7 @@ Talks:
   * [slides](/Immediate%20Mode%20User%20Interface%20in%20C%2B%2B%20-%20Stefano%20Cristiano.pdf)
   * video
 * C/C++ interoperability with other languages by Alberto Bignotti
-  * slides
+  * [slides](/C%2B%2B%20interoperability%20with%20other%20languages%20-%20Alberto%20Bignotti.pdf)
   * video
 * Intelligenza Artificiale oggi by Sebastiano Galazzo
   * [slides](/Intelligenza%20Artificiale%20Oggi%20-%20Sebastiano%20Galazzo.pptx)
