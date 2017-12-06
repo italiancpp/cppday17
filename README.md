@@ -4,7 +4,7 @@ Slides and material of the event happened on December 2 in Milan.
 Talks:
 
 * (Slightly) Smarter Smart Pointers by Carlo Pescio
-  * slides
+  * [slides](/(Slightly)%20Smarter%20Smart%20Pointers%20-%20Carlo%20Pescio.pdf)
   * video
 * C++ e UI: un approccio alternativo by Daniele Pallastrelli
   * [slides](/C%2B%2B%20and%20UI%20un%20approccio%20alternativo%20-%20Daniele%20Pallastrelli.pdf)
