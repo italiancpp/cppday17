@@ -1,5 +1,5 @@
 # C++ Day 2017
-Slides and material of the event happened on December 2 in Milan.
+Slides and material of the event happened on December 2 in Modena.
 Videos are all in the italian language.
 
 [Youtube playlist](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
